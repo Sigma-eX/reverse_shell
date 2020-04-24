@@ -239,7 +239,7 @@ theHarvester==3.1.0
 tls-parser==1.2.1
 tornado==5.1.1
 traitlets==4.3.3
-Twisted==18.9.0
+twisted>=20.3.0
 typing-extensions==3.7.4.2
 tzlocal==2.1b1
 unattended-upgrades==0.1
